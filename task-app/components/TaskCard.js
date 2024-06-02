@@ -8,3 +8,14 @@ export default function TaskCard({ task }) {
     </View>
   );
 }
+const styles = StyleSheet.create({
+  card: {
+    padding: 50,
+    marginVertical: 5,
+    backgroundColor: '#fff',
+    borderRadius: 10,
+  },
+  title: {
+    fontSize: 20,
+  },
+});
