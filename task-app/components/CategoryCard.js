@@ -36,8 +36,7 @@ const styles = StyleSheet.create({
     height: 132,
     marginBottom: 10,
   },
-
-  title: {
+ title: {
     fontSize: 16,
     fontWeight: 'bold',
   },
@@ -46,4 +45,5 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: 'black',
   },
+ 
 });
