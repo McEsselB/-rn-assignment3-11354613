@@ -9,14 +9,31 @@ const categories = [
   { id: '1', title: 'Exercise', tasks: 12, image: require('../assets/images/exercise.jpg') },
   { id: '2', title: 'Study', tasks: 12, image: require('../assets/images/study.jpg') },
   { id: '2', title: 'Code', tasks: 12, image: require('../assets/images/code.png') },
-
+  { id: '2', title: 'Cook', tasks: 12, image: require('../assets/images/cook.jpeg') },
+  { id: '7', title: 'Travel', tasks: 3, image: require('../assets/images/travel.jpeg') },
+  { id: '8', title: 'Music', tasks: 9, image: require('../assets/images/music.jpeg') },
+  { id: '2', title: 'Write', tasks: 12, image: require('../assets/images/write.jpeg') },
+  { id: '2', title: 'Photography', tasks: 12, image: require('../assets/images/photography.jpeg') },
 ];
+
 
 const tasks = [
   { id: '1', title: 'Mobile App Development' },
   { id: '2', title: 'Web Development' },
   { id: '3', title: 'Push Ups' },
   { id: '4', title: 'Yoga' },
+  { id: '5', title: 'Grocery Shopping' },
+  { id: '6', title: 'Client Meeting' },
+  { id: '7', title: 'Email Marketing' },
+  { id: '8', title: 'Blog Writing' },
+  { id: '9', title: 'Online Course' },
+  { id: '10', title: 'Project Planning' },
+  { id: '11', title: 'Team Collaboration' },
+  { id: '12', title: 'Budget Review' },
+  { id: '13', title: 'Code Review' },
+  { id: '14', title: 'Graphic Design' },
+  { id: '15', title: 'Product Testing' },
+
 
 ];
 

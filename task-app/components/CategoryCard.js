@@ -16,3 +16,34 @@ export default function CategoryCard({ category }) {
   );
 }
 
+
+
+const styles = StyleSheet.create({
+  card: {
+    marginRight: 20,
+    padding: 10,
+    backgroundColor: '#fff',
+    height: 192,
+    width: 186,
+    marginBottom: 30
+  },
+  textcard: {
+   
+  },
+
+  image: { 
+    width: 151,
+    height: 132,
+    marginBottom: 10,
+  },
+
+  title: {
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+  
+  tasks: {
+    fontSize: 14,
+    color: 'black',
+  },
+});
